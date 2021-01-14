@@ -33,3 +33,14 @@ nav img{
     height: 300px;
     width: 300px;
 }
+
+.product-img{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+ 
+}
+.icon-border img{
+    height: 80px;
+    width: 80px;
+}
